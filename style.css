@@ -1,3 +1,6 @@
+* {
+  background-color: gray;
+}
 tbody, td, tfoot, th, thead, tr {
     border-color: #afbfb8;
     border-style: dotted; 
