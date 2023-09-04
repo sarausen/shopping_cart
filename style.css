@@ -9,3 +9,6 @@ tbody, td, tfoot, th, thead, tr {
   color: #000;
   font-weight:bold;
 }
+img {
+  width: 200px;
+}
